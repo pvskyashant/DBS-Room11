@@ -1,0 +1,26 @@
+body{
+    background-image : url(asset1.jpeg);
+    padding-top: 100;
+}
+form{
+    text-align: center;
+}
+h1{
+    color:tomato;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:bolder;
+    font-size: 50px;
+    
+}
+label{
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color:crimson;
+    padding-top: 200;
+}
+ul {
+    list-style-type: none;
+    padding-top: 100;
+    text-decoration-color: darkgrey;
+}
